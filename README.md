@@ -17,5 +17,5 @@ Bắt đầu tạo và chỉnh sửa NPC!
 
 Đừng quên thiết lập Permissions để người chơi có thể tương tác với NPC.
 
-Lưu ý rằng người chơi cần quyền citizens.npc.talk để có thể nghe NPC nói chuyện!
+**Lưu ý rằng người chơi cần quyền citizens.npc.talk để có thể nghe NPC nói chuyện!**
 
