@@ -20,6 +20,7 @@ Bắt đầu tạo và chỉnh sửa NPC!
 **Lưu ý rằng người chơi cần quyền citizens.npc.talk để có thể nghe NPC nói chuyện!**
 
 **First of All**
+
 Nếu câu trả lời cho câu hỏi của bạn không có ở đây, hãy hỏi trên [Discord](https://discord.com/invite/Q6pZGSR) trong kênh #citizens (tạo một thread cho câu hỏi của bạn).
 
 **Errors**
