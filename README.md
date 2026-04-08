@@ -30,10 +30,9 @@ Citizens là một plugin nâng cao và yêu cầu bạn phải dùng bản Spig
 
 Nếu bạn gặp các lỗi như NoClassDefFound, ClassNotFoundException, hoặc FieldNotFound, hãy kiểm tra:
 
-	Bạn có đang dùng đúng sub-version của Spigot không
+- Bạn có đang dùng đúng sub-version của Spigot không
 (ví dụ: dùng 1.15.2 thay vì 1.15 hoặc 1.15.1)
-
-	Và bạn có đang dùng phiên bản Spigot/Minecraft tương đối mới
+- Và bạn có đang dùng phiên bản Spigot/Minecraft tương đối mới
 (tức là phiên bản được phát hành trong vài năm gần đây)
 
 Nếu vẫn không được, hãy hỏi trên [Discord](https://discord.gg/Q6pZGSR) hoặc gửi báo lỗi (issue) [tại đây](http://issues.citizensnpcs.co/).
